@@ -29,7 +29,7 @@ YelpCamp is a responsive website for people to share camping experience. Users c
 4. To publish new local commits, use git command `git push heroku master`
 
 ### Certificate
-<p align="center"><img src="pictures/certificate.jpg" alt="Certificate of Completion"></p>
+<p align="center"><img src="certificate.jpg" alt="Certificate of Completion"></p>
 
 <br><em>Xiaochen Ma</em>
 <br><br>July 5th, 2021
