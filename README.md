@@ -1,6 +1,6 @@
 ## YelpCamp
 
-<p align="center"><img src="pictures/home-page.jpg" alt="Home Page"></p>
+<p align="center"><img src="pictures/homepage.jpg" alt="Home Page"></p>
 
 ### Description
 YelpCamp is a responsive website for people to share camping experience. Users can create an account and sign in to create their own campground and leave reviews. This full-stack project is part of Colt Steele's web development course on Udemy. To learn more details, please see the [demo video](https://www.youtube.com/watch?v=3Gy5JuoH9Cw).
@@ -29,7 +29,7 @@ YelpCamp is a responsive website for people to share camping experience. Users c
 4. To publish new local commits, use git command `git push heroku master`
 
 ### Certificate
-<p align="center"><img src="certificate.jpg" alt="Certificate of Completion"></p>
+<p align="center"><img src="pictures/yelpcamp_certificate.jpg" alt="Certificate of Completion"></p>
 
 <br><em>Xiaochen Ma</em>
 <br><br>July 5th, 2021
