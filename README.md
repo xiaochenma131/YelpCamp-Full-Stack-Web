@@ -31,8 +31,8 @@ YelpCamp is a responsive website for people to share camping experience. Users c
 ### Certificate
 <p align="center"><img src="pictures/certificate.jpg" alt="Certificate of Completion"></p>
 
-<br><em>Ruichen Zhang</em>
-<br><br>Mar 10, 2021
+<br><em>Xiaochen Ma</em>
+<br><br>July 5th, 2021
 
 
 
