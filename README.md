@@ -1,6 +1,6 @@
 ## YelpCamp
 
-<p align="center"><img src="pictures/Screen Shot 2021-09-08 at 10.20.49 AM" alt="Home Page"></p>
+<p align="center"><img src="pictures/Screen Shot 2021-09-08 at 10.20.49 AM.png" alt="Home Page"></p>
 
 ### Description
 YelpCamp is a responsive website for people to share camping experience. Users can create an account and sign in to create their own campground and leave reviews. This full-stack project is part of Colt Steele's web development course on Udemy. To learn more details, please see the [demo video](https://www.youtube.com/watch?v=3Gy5JuoH9Cw).
@@ -15,7 +15,7 @@ YelpCamp is a responsive website for people to share camping experience. Users c
 
 ### Main Features
 
-<p align="center"><img src="pictures/Screen Shot 2021-09-08 at 10.21.32 AM" alt="Campground Page"></p>
+<p align="center"><img src="pictures/Screen Shot 2021-09-08 at 10.21.32 AM.png" alt="Campground Page"></p>
 
 * Users may create an account, sign in or sign out
 * Once logged in, users may create their own campgrounds with name, description, location, price and image(s), and update or delete them later on
