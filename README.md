@@ -23,7 +23,7 @@ YelpCamp is a responsive website for people to share camping experience. Users c
 * Users may view geographical distribution of campgrounds on a cluster map, and see the map of each campground on their page
 
 ### How to Run Locally
-Method 1:  Use this link directly to use the deployed application: https://secure-cove-65887.herokuapp.com
+Method 1:  Use this link directly to use the deployed application: https://secure-cove-65887.herokuapp.com         
 Method 2: 
 1. Download the project, cd into its directory and run `npm install` to download dependencies needed (you should have node, npm and mongodb installed on your local machine)
 2. Create a cloudinary account to get an API key and secret code, and store these variables in a .env file
